@@ -1,0 +1,21 @@
+.li-card {
+  width: 22%;
+  list-style-type: none;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 1px #475569;
+  margin: 20px;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  
+}
+.image {
+  height: 150px;
+  width: 100%;
+}
+.heading {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #475569;
+  padding: 10px;
+}
